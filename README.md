@@ -18,3 +18,5 @@ LPC824M201JDH20
 チップ抵抗 2kΩ x2  
 チップコンデンサ 0.1uF x2  
 ハーフピッチ2列ピンヘッダ 5x2ピン  
+
+![Pinout](https://github.com/od1969/LPC824_300mil_board/blob/master/LPC824_300mil_board_pinout.PNG)  
