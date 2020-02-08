@@ -20,3 +20,4 @@ LPC824M201JDH20
 ハーフピッチ2列ピンヘッダ 5x2ピン  
 
 ![Pinout](https://github.com/od1969/LPC824_300mil_board/blob/master/LPC824_300mil_board_pinout.PNG)  
+![Schematic](https://github.com/od1969/LPC824_300mil_board/blob/master/LPC824_300mil_board_schematic.PNG)  
